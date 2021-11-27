@@ -1,8 +1,4 @@
-﻿[![Joydip Kanjilal](https://images.idgesg.net/images/article/2017/06/joydipkanjilal-100724852-byline.jpg?auto=webp&quality=85,70)](https://www.infoworld.com/author/Joydip-Kanjilal/ "Joydip Kanjilal")
-
-By , Columnist, InfoWorld | May 27, 2016 10:57 am PDT 
-
-### Learn how to work with the Hashtable and Dictionary collection types and when to use one in lieu of the other in your applications
+﻿### Learn how to work with the Hashtable and Dictionary collection types and when to use one in lieu of the other in your applications
 
     ![Collections](https://images.techhive.com/images/article/2016/05/collections-100663514-primary.idge.jpg?auto=webp&quality=85,70)
 
