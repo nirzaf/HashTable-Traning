@@ -9,7 +9,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="readme.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>readme.md</DependentUpon>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Bogus" Version="34.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="readme.md">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>readme.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
   </ItemGroup>
 
 </Project>
