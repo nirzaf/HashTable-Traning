@@ -1,6 +1,10 @@
-﻿### Learn how to work with the Hashtable and Dictionary collection types and when to use one in lieu of the other in your applications
+﻿[![Joydip Kanjilal](https://images.idgesg.net/images/article/2017/06/joydipkanjilal-100724852-byline.jpg?auto=webp&quality=85,70)](https://www.infoworld.com/author/Joydip-Kanjilal/ "Joydip Kanjilal")
 
-    ![](https://images.techhive.com/images/article/2016/05/collections-100663514-primary.idge.jpg?auto=webp&quality=85,70)
+By , Columnist, InfoWorld | May 27, 2016 10:57 am PDT 
+
+### Learn how to work with the Hashtable and Dictionary collection types and when to use one in lieu of the other in your applications
+
+  [![Collections](https://images.techhive.com/images/article/2016/05/collections-100663514-primary.idge.jpg?auto=webp&quality=85,70)]()
 
 Microsoft .Net Framework provides excellent support for working with collections. Collections are used for storage and retrieval of data. You use collections in your application to allocate memory dynamically to store elements and then retrieve them using key or index as and when needed. Basically, a collection represents a set of objects that you can access by iterating each of the elements of the collection.
 
