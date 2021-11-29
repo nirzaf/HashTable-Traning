@@ -95,7 +95,3 @@ The following code snippet shows how you can store and retrieve objects inside a
 The basic difference between a Hashtable and Dictionary is that while the former is un-typed and requires boxing and un-boxing overhead, the latter doesn't as it is typed. There is another difference between them. If you use an indexer to retrieve a value from a Hashtable instance and item doesn't exist, you would be returned a null value. On the contrary, if you try to retrieve a non-existent item from a Dictionary instance, an exception will be thrown. Note that neither Hashtable nor Dictionary would guarantee preserving the order of the items in the collection.
 
 While the Hashtable is a weakly-typed data structure, a Dictionary is a strongly typed one. The choice between a Hashtable and Dictionary depends on whether you need a type safe collection. In most cases, a Dictionary is a good choice. To put it simply, a Dictionary is an improved Hashtable. I frequently use Dictionary over a Hashtable.
-
-Joydip Kanjilal is a Microsoft MVP in ASP.Net, as well as a speaker and author of several books and articles. He has more than 20 years of experience in IT including more than 16 years in Microsoft .Net and related technologies.
-
-Copyright © 2016 IDG Communications, Inc.
